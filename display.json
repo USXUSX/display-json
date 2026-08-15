@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 22:57",
+  "generated_at": "2026-08-15 23:02",
   "tiny": {
     "lines": [
       {
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "雨17%",
+            "text": "雨8%",
             "align": "left",
             "color": "blue"
           }
@@ -60,7 +60,7 @@
             "color": "gray"
           },
           {
-            "text": "17%",
+            "text": "8%",
             "align": "right",
             "color": "blue"
           }
@@ -74,7 +74,7 @@
             "color": "gray"
           },
           {
-            "text": "28℃",
+            "text": "27℃",
             "align": "right",
             "color": "gray"
           }
@@ -102,7 +102,7 @@
             "color": "gray"
           },
           {
-            "text": "4km/h",
+            "text": "3km/h",
             "align": "right",
             "color": "green"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "22:57取得",
+            "text": "23:02取得",
             "align": "right",
             "color": "gray"
           }
@@ -194,12 +194,12 @@
       {
         "items": [
           {
-            "text": "雨17%",
+            "text": "雨8%",
             "align": "left",
             "color": "blue"
           },
           {
-            "text": "風4",
+            "text": "風3",
             "align": "right",
             "color": "green"
           }
@@ -260,7 +260,7 @@
       {
         "items": [
           {
-            "text": "体感28℃",
+            "text": "体感27℃",
             "align": "left",
             "color": "gray"
           },
@@ -270,7 +270,7 @@
             "color": "blue"
           },
           {
-            "text": "風4km/h",
+            "text": "風3km/h",
             "align": "right",
             "color": "green"
           }
@@ -284,7 +284,7 @@
             "color": "gray"
           },
           {
-            "text": "17%",
+            "text": "8%",
             "align": "right",
             "color": "blue"
           }
@@ -400,12 +400,12 @@
       {
         "items": [
           {
-            "text": "23時",
+            "text": "00時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "曇 24℃ 雨8%",
+            "text": "晴時々曇 23℃ 雨2%",
             "align": "right",
             "color": "gray"
           }
@@ -414,7 +414,7 @@
       {
         "items": [
           {
-            "text": "01時",
+            "text": "02時",
             "align": "left",
             "color": "gray"
           },
@@ -428,7 +428,7 @@
       {
         "items": [
           {
-            "text": "03時",
+            "text": "04時",
             "align": "left",
             "color": "gray"
           },
@@ -442,12 +442,12 @@
       {
         "items": [
           {
-            "text": "05時",
+            "text": "06時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 22℃ 雨0%",
+            "text": "快晴 22℃ 雨0%",
             "align": "right",
             "color": "yellow"
           }
@@ -456,12 +456,12 @@
       {
         "items": [
           {
-            "text": "07時",
+            "text": "08時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "快晴 23℃ 雨1%",
+            "text": "晴 24℃ 雨2%",
             "align": "right",
             "color": "yellow"
           }
