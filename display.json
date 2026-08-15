@@ -1,20 +1,11 @@
 {
-  "generated_at": "2026-08-15 16:50",
+  "generated_at": "2026-08-15 17:47",
   "tiny": {
     "lines": [
       {
         "items": [
           {
             "text": "全角四字",
-            "align": "left",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCD1234",
             "align": "left",
             "color": "green"
           }
@@ -77,42 +68,6 @@
             "color": "blue"
           }
         ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角十文字確認表示中",
-            "align": "left",
-            "color": "green"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJ1234567890",
-            "align": "left",
-            "color": "yellow"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角十文字確認表示中",
-            "align": "left",
-            "color": "red"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJ1234567890",
-            "align": "left",
-            "color": "gray"
-          }
-        ]
       }
     ]
   },
@@ -121,7 +76,7 @@
       {
         "items": [
           {
-            "text": "全角八文字表示中",
+            "text": "全角九文字表示確認",
             "align": "left",
             "color": "blue"
           }
@@ -130,7 +85,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGH12345678",
+            "text": "ABCDEFGHI123456789",
             "align": "left",
             "color": "green"
           }
@@ -139,7 +94,7 @@
       {
         "items": [
           {
-            "text": "全角八文字表示中",
+            "text": "全角十文字確認表示中",
             "align": "left",
             "color": "yellow"
           }
@@ -148,16 +103,34 @@
       {
         "items": [
           {
-            "text": "ABCDEFGH12345678",
+            "text": "ABCDEFGHIJ1234567890",
             "align": "left",
             "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角九文字表示確認",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJ1234567890",
+            "align": "left",
+            "color": "blue"
           }
         ]
       }
     ]
   },
   "wide": {
-    "title": "上限文字数テスト",
+    "title": "最終表示確認",
     "lines": [
       {
         "items": [
@@ -255,87 +228,6 @@
             "text": "全角十八文字表示確認用サンプル上限値",
             "align": "left",
             "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
-            "align": "left",
-            "color": "green"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角十八文字表示確認用サンプル上限値",
-            "align": "left",
-            "color": "yellow"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
-            "align": "left",
-            "color": "red"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角十八文字表示確認用サンプル上限値",
-            "align": "left",
-            "color": "gray"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
-            "align": "left",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角十八文字表示確認用サンプル上限値",
-            "align": "left",
-            "color": "green"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
-            "align": "left",
-            "color": "yellow"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角十八文字表示確認用サンプル上限値",
-            "align": "left",
-            "color": "red"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
-            "align": "left",
-            "color": "gray"
           }
         ]
       }
