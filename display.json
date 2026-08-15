@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 04:15",
+  "generated_at": "2026-08-16 04:20",
   "tiny": {
     "lines": [
       {
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "04:15取得",
+            "text": "04:20取得",
             "align": "right",
             "color": "gray"
           }
@@ -354,7 +354,7 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 30/23℃ 雨61%",
+            "text": "曇 30/23℃ 雨61%",
             "align": "right",
             "color": "gray"
           }
