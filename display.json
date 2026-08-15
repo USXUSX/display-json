@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-14 12:30",
+  "generated_at": "2026-08-15 15:35",
   "tiny": {
     "lines": [
       {
         "items": [
-          { "text": "晴", "align": "left", "color": "blue" },
-          { "text": "28°", "align": "right", "color": "default" }
+          {
+            "text": "晴",
+            "align": "left",
+            "color": "blue"
+          },
+          {
+            "text": "28°",
+            "align": "right",
+            "color": "default"
+          }
         ]
       }
     ]
@@ -14,16 +22,37 @@
     "lines": [
       {
         "items": [
-          { "text": "天気", "align": "left" },
-          { "text": "晴", "align": "right", "color": "blue" },
-          { "text": "28°", "align": "right" }
+          {
+            "text": "天気",
+            "align": "left"
+          },
+          {
+            "text": "晴",
+            "align": "right",
+            "color": "blue"
+          },
+          {
+            "text": "28°",
+            "align": "right"
+          }
         ]
       },
       {
         "items": [
-          { "text": "状態", "align": "left" },
-          { "text": "☆", "align": "right", "color": "yellow" },
-          { "text": "良好", "align": "right", "color": "green" }
+          {
+            "text": "状態",
+            "align": "left"
+          },
+          {
+            "text": "☆",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "良好",
+            "align": "right",
+            "color": "green"
+          }
         ]
       }
     ]
@@ -32,28 +61,63 @@
     "lines": [
       {
         "items": [
-          { "text": "天気", "align": "left" },
-          { "text": "晴 28°", "align": "right", "color": "blue" }
+          {
+            "text": "天気",
+            "align": "left"
+          },
+          {
+            "text": "晴 28°",
+            "align": "right",
+            "color": "blue"
+          }
         ]
       },
       {
         "items": [
-          { "text": "予定", "align": "left" },
-          { "text": "14:00", "align": "right", "color": "yellow" },
-          { "text": "外出", "align": "right" }
+          {
+            "text": "予定",
+            "align": "left"
+          },
+          {
+            "text": "14:00",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "外出",
+            "align": "right"
+          }
         ]
       },
       {
         "items": [
-          { "text": "確認", "align": "left" },
-          { "text": "2件", "align": "right", "color": "red" }
+          {
+            "text": "確認",
+            "align": "left"
+          },
+          {
+            "text": "2件",
+            "align": "right",
+            "color": "red"
+          }
         ]
       },
       {
         "items": [
-          { "text": "状態", "align": "left" },
-          { "text": "☆", "align": "right", "color": "yellow" },
-          { "text": "良好", "align": "right", "color": "green" }
+          {
+            "text": "状態",
+            "align": "left"
+          },
+          {
+            "text": "☆",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "良好",
+            "align": "right",
+            "color": "green"
+          }
         ]
       }
     ]
@@ -63,34 +127,76 @@
     "lines": [
       {
         "items": [
-          { "text": "天気", "align": "left" },
-          { "text": "晴", "align": "right", "color": "blue" },
-          { "text": "28°", "align": "right" }
+          {
+            "text": "天気",
+            "align": "left"
+          },
+          {
+            "text": "晴",
+            "align": "right",
+            "color": "blue"
+          },
+          {
+            "text": "28°",
+            "align": "right"
+          }
         ]
       },
       {
         "items": [
-          { "text": "予定", "align": "left" },
-          { "text": "14:00", "align": "right", "color": "yellow" },
-          { "text": "外出", "align": "right" }
+          {
+            "text": "予定",
+            "align": "left"
+          },
+          {
+            "text": "14:00",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "外出",
+            "align": "right"
+          }
         ]
       },
       {
         "items": [
-          { "text": "確認事項", "align": "left" },
-          { "text": "2件", "align": "right", "color": "red" }
+          {
+            "text": "確認事項",
+            "align": "left"
+          },
+          {
+            "text": "2件",
+            "align": "right",
+            "color": "red"
+          }
         ]
       },
       {
         "items": [
-          { "text": "メンテナンス中", "align": "left", "color": "gray" }
+          {
+            "text": "メンテナンス中",
+            "align": "left",
+            "color": "gray"
+          }
         ]
       },
       {
         "items": [
-          { "text": "状態", "align": "left" },
-          { "text": "☆", "align": "right", "color": "yellow" },
-          { "text": "良好", "align": "right", "color": "green" }
+          {
+            "text": "状態",
+            "align": "left"
+          },
+          {
+            "text": "☆",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "良好",
+            "align": "right",
+            "color": "green"
+          }
         ]
       }
     ]
