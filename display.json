@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 21:15",
+  "generated_at": "2026-08-15 21:20",
   "tiny": {
     "lines": [
       {
@@ -108,7 +108,7 @@
       {
         "items": [
           {
-            "text": "予報 21:15取得",
+            "text": "予報 21:20取得",
             "align": "left",
             "color": "gray"
           }
