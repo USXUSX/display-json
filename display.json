@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 21:10",
+  "generated_at": "2026-08-15 21:15",
   "tiny": {
     "lines": [
       {
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "湿度 76%",
+            "text": "湿度 77%",
             "align": "left",
             "color": "blue"
           }
@@ -72,7 +72,7 @@
       {
         "items": [
           {
-            "text": "風 4km/h",
+            "text": "風 3km/h",
             "align": "left",
             "color": "green"
           }
@@ -108,7 +108,7 @@
       {
         "items": [
           {
-            "text": "予報 21:10取得",
+            "text": "予報 21:15取得",
             "align": "left",
             "color": "gray"
           }
@@ -139,7 +139,7 @@
       {
         "items": [
           {
-            "text": "雨27% 風4",
+            "text": "雨27% 風3",
             "align": "left",
             "color": "blue"
           }
@@ -180,7 +180,7 @@
       {
         "items": [
           {
-            "text": "体感28℃  湿度76%  風4km/h",
+            "text": "体感28℃  湿度77%  風3km/h",
             "align": "left",
             "color": "gray"
           }
