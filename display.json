@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 19:59",
+  "generated_at": "2026-08-15 20:17",
   "tiny": {
     "lines": [
       {
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "全角十文字確認表示中",
+            "text": "全角八文字表示中",
             "align": "left",
             "color": "blue"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGH1234567",
+            "text": "ABCDEF123456",
             "align": "left",
             "color": "green"
           }
