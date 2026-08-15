@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-08-15 17:47",
+  "generated_at": "2026-08-15 19:33",
   "tiny": {
     "lines": [
       {
         "items": [
           {
             "text": "全角四字",
+            "align": "left",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABC1234",
             "align": "left",
             "color": "green"
           }
@@ -27,7 +36,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJ1234567890",
+            "text": "ABCDEFGH1234567",
             "align": "left",
             "color": "green"
           }
@@ -45,7 +54,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJ1234567890",
+            "text": "ABCDEFGH1234567",
             "align": "left",
             "color": "red"
           }
@@ -63,9 +72,45 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJ1234567890",
+            "text": "ABCDEFGH1234567",
             "align": "left",
             "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十文字確認表示中",
+            "align": "left",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGH1234567",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十文字確認表示中",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGH1234567",
+            "align": "left",
+            "color": "gray"
           }
         ]
       }
@@ -76,7 +121,7 @@
       {
         "items": [
           {
-            "text": "全角九文字表示確認",
+            "text": "全角八文字表示中",
             "align": "left",
             "color": "blue"
           }
@@ -85,7 +130,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHI123456789",
+            "text": "ABCDEF123456",
             "align": "left",
             "color": "green"
           }
@@ -94,7 +139,7 @@
       {
         "items": [
           {
-            "text": "全角十文字確認表示中",
+            "text": "全角八文字表示中",
             "align": "left",
             "color": "yellow"
           }
@@ -103,34 +148,16 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJ1234567890",
+            "text": "ABCDEF123456",
             "align": "left",
             "color": "red"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "全角九文字表示確認",
-            "align": "left",
-            "color": "gray"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "ABCDEFGHIJ1234567890",
-            "align": "left",
-            "color": "blue"
           }
         ]
       }
     ]
   },
   "wide": {
-    "title": "最終表示確認",
+    "title": "表示方針確認",
     "lines": [
       {
         "items": [
@@ -144,7 +171,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
             "align": "left",
             "color": "green"
           }
@@ -162,7 +189,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
             "align": "left",
             "color": "red"
           }
@@ -180,7 +207,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
             "align": "left",
             "color": "blue"
           }
@@ -198,7 +225,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
             "align": "left",
             "color": "yellow"
           }
@@ -216,7 +243,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
             "align": "left",
             "color": "gray"
           }
@@ -228,6 +255,87 @@
             "text": "全角十八文字表示確認用サンプル上限値",
             "align": "left",
             "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "align": "left",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "align": "left",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "align": "left",
+            "color": "gray"
           }
         ]
       }
