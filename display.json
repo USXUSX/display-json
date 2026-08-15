@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 04:25",
+  "generated_at": "2026-08-16 04:30",
   "tiny": {
     "lines": [
       {
@@ -88,7 +88,7 @@
             "color": "gray"
           },
           {
-            "text": "90%",
+            "text": "91%",
             "align": "right",
             "color": "blue"
           }
@@ -102,7 +102,7 @@
             "color": "gray"
           },
           {
-            "text": "5km/h",
+            "text": "6km/h",
             "align": "right",
             "color": "green"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "04:25取得",
+            "text": "04:30取得",
             "align": "right",
             "color": "gray"
           }
@@ -199,7 +199,7 @@
             "color": "blue"
           },
           {
-            "text": "風5",
+            "text": "風6",
             "align": "right",
             "color": "green"
           }
@@ -265,12 +265,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度90%",
+            "text": "湿度91%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風5km/h",
+            "text": "風6km/h",
             "align": "right",
             "color": "green"
           }
@@ -368,7 +368,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 30/24℃ 雨61%",
+            "text": "弱い霧雨 29/24℃ 雨61%",
             "align": "right",
             "color": "blue"
           }
@@ -382,7 +382,7 @@
             "color": "gray"
           },
           {
-            "text": "霧雨 29/24℃ 雨72%",
+            "text": "霧雨 30/25℃ 雨72%",
             "align": "right",
             "color": "blue"
           }
