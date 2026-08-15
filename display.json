@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 00:42",
+  "generated_at": "2026-08-16 00:47",
   "tiny": {
     "lines": [
       {
@@ -74,7 +74,7 @@
             "color": "gray"
           },
           {
-            "text": "27℃",
+            "text": "26℃",
             "align": "right",
             "color": "gray"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "00:42取得",
+            "text": "00:47取得",
             "align": "right",
             "color": "gray"
           }
@@ -260,7 +260,7 @@
       {
         "items": [
           {
-            "text": "体感27℃",
+            "text": "体感26℃",
             "align": "left",
             "color": "gray"
           },
