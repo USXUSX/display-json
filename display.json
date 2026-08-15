@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 01:58",
+  "generated_at": "2026-08-16 02:03",
   "tiny": {
     "lines": [
       {
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "01:58取得",
+            "text": "02:03取得",
             "align": "right",
             "color": "gray"
           }
@@ -400,12 +400,12 @@
       {
         "items": [
           {
-            "text": "02時",
+            "text": "03時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 23℃ 雨4%",
+            "text": "晴 22℃ 雨4%",
             "align": "right",
             "color": "yellow"
           }
@@ -414,12 +414,12 @@
       {
         "items": [
           {
-            "text": "04時",
+            "text": "05時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 22℃ 雨2%",
+            "text": "晴 22℃ 雨0%",
             "align": "right",
             "color": "yellow"
           }
@@ -428,12 +428,12 @@
       {
         "items": [
           {
-            "text": "06時",
+            "text": "07時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "快晴 22℃ 雨0%",
+            "text": "快晴 23℃ 雨2%",
             "align": "right",
             "color": "yellow"
           }
@@ -442,26 +442,26 @@
       {
         "items": [
           {
-            "text": "08時",
+            "text": "09時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 24℃ 雨7%",
+            "text": "晴時々曇 25℃ 雨14%",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "10時",
+            "text": "11時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴時々曇 26℃ 雨27%",
+            "text": "晴時々曇 27℃ 雨43%",
             "align": "right",
             "color": "gray"
           }
