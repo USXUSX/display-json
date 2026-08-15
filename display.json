@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 06:13",
+  "generated_at": "2026-08-16 06:18",
   "tiny": {
     "lines": [
       {
@@ -102,7 +102,7 @@
             "color": "gray"
           },
           {
-            "text": "5km/h",
+            "text": "6km/h",
             "align": "right",
             "color": "green"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "06:13取得",
+            "text": "06:18取得",
             "align": "right",
             "color": "gray"
           }
@@ -199,7 +199,7 @@
             "color": "blue"
           },
           {
-            "text": "風5",
+            "text": "風6",
             "align": "right",
             "color": "green"
           }
@@ -270,7 +270,7 @@
             "color": "blue"
           },
           {
-            "text": "風5km/h",
+            "text": "風6km/h",
             "align": "right",
             "color": "green"
           }
