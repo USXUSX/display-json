@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 22:06",
+  "generated_at": "2026-08-15 22:11",
   "tiny": {
     "lines": [
       {
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "22:06取得",
+            "text": "22:11取得",
             "align": "right",
             "color": "gray"
           }
@@ -382,7 +382,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 29/24℃ 雨65%",
+            "text": "弱い霧雨 30/24℃ 雨65%",
             "align": "right",
             "color": "blue"
           }
