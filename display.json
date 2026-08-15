@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 19:33",
+  "generated_at": "2026-08-15 19:59",
   "tiny": {
     "lines": [
       {
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "ABC1234",
+            "text": "ABC123",
             "align": "left",
             "color": "green"
           }
@@ -153,11 +153,20 @@
             "color": "red"
           }
         ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角八文字表示中",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
       }
     ]
   },
   "wide": {
-    "title": "表示方針確認",
+    "title": "最終調整確認",
     "lines": [
       {
         "items": [
@@ -171,7 +180,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "green"
           }
@@ -189,7 +198,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "red"
           }
@@ -207,7 +216,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "blue"
           }
@@ -225,7 +234,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "yellow"
           }
@@ -243,7 +252,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "gray"
           }
@@ -261,7 +270,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "green"
           }
@@ -279,7 +288,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "red"
           }
@@ -297,7 +306,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "blue"
           }
@@ -315,7 +324,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "yellow"
           }
@@ -333,7 +342,7 @@
       {
         "items": [
           {
-            "text": "ABCDEFGHIJKLMNOPQR123456789",
+            "text": "ABCDEFGHIJKLMNOP123456789",
             "align": "left",
             "color": "gray"
           }
