@@ -1,30 +1,22 @@
 {
-  "generated_at": "2026-08-15 16:18",
+  "generated_at": "2026-08-15 16:36",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "全角",
+            "text": "全角四字",
             "align": "left",
             "color": "blue"
-          },
-          {
-            "text": "四文字",
-            "align": "right"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "Half",
+            "text": "ABCD1234",
             "align": "left",
             "color": "green"
-          },
-          {
-            "text": "ABCD1234",
-            "align": "right"
           }
         ]
       }
@@ -35,12 +27,8 @@
       {
         "items": [
           {
-            "text": "全角",
-            "align": "left"
-          },
-          {
-            "text": "四文字",
-            "align": "right",
+            "text": "全角十文字確認表示中",
+            "align": "left",
             "color": "blue"
           }
         ]
@@ -48,13 +36,81 @@
       {
         "items": [
           {
-            "text": "Half",
-            "align": "left"
-          },
-          {
-            "text": "ABCD1234",
-            "align": "right",
+            "text": "ABCDEFGHIJ1234567890",
+            "align": "left",
             "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十文字確認表示中",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJ1234567890",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十文字確認表示中",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJ1234567890",
+            "align": "left",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十文字確認表示中",
+            "align": "left",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJ1234567890",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十文字確認表示中",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJ1234567890",
+            "align": "left",
+            "color": "gray"
           }
         ]
       }
@@ -65,12 +121,8 @@
       {
         "items": [
           {
-            "text": "全角",
-            "align": "left"
-          },
-          {
-            "text": "五文字表示",
-            "align": "right",
+            "text": "全角八文字表示中",
+            "align": "left",
             "color": "blue"
           }
         ]
@@ -78,12 +130,8 @@
       {
         "items": [
           {
-            "text": "Half",
-            "align": "left"
-          },
-          {
-            "text": "ABCDEFGHIJ",
-            "align": "right",
+            "text": "ABCDEFGH12345678",
+            "align": "left",
             "color": "green"
           }
         ]
@@ -91,52 +139,31 @@
       {
         "items": [
           {
-            "text": "混在",
-            "align": "left"
-          },
-          {
-            "text": "14:00",
-            "align": "right",
+            "text": "全角八文字表示中",
+            "align": "left",
             "color": "yellow"
-          },
-          {
-            "text": "外出",
-            "align": "right"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "状態",
-            "align": "left"
-          },
-          {
-            "text": "☆",
-            "align": "right",
-            "color": "yellow"
-          },
-          {
-            "text": "良好",
-            "align": "right",
-            "color": "green"
+            "text": "ABCDEFGH12345678",
+            "align": "left",
+            "color": "red"
           }
         ]
       }
     ]
   },
   "wide": {
-    "title": "表示確認サンプル",
+    "title": "上限文字数テスト",
     "lines": [
       {
         "items": [
           {
-            "text": "全角",
-            "align": "left"
-          },
-          {
-            "text": "あいうえおかきくけこ",
-            "align": "right",
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
             "color": "blue"
           }
         ]
@@ -144,12 +171,8 @@
       {
         "items": [
           {
-            "text": "半角",
-            "align": "left"
-          },
-          {
-            "text": "ABCDEFGHIJKLMNOPQRST",
-            "align": "right",
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
             "color": "green"
           }
         ]
@@ -157,12 +180,17 @@
       {
         "items": [
           {
-            "text": "数字",
-            "align": "left"
-          },
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
           {
-            "text": "1234567890",
-            "align": "right",
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
             "color": "red"
           }
         ]
@@ -170,35 +198,144 @@
       {
         "items": [
           {
-            "text": "混在",
-            "align": "left"
-          },
-          {
-            "text": "14:00",
-            "align": "right",
-            "color": "yellow"
-          },
-          {
-            "text": "サンプル",
-            "align": "right"
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "gray"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "項目色",
-            "align": "left"
-          },
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
           {
-            "text": "☆",
-            "align": "right",
-            "color": "yellow"
-          },
-          {
-            "text": "良好",
-            "align": "right",
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
             "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "yellow"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "全角十八文字表示確認用サンプル上限値",
+            "align": "left",
+            "color": "red"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890",
+            "align": "left",
+            "color": "gray"
           }
         ]
       }
