@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16 02:44",
+  "generated_at": "2026-08-16 02:49",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "23℃",
+            "text": "22℃",
             "align": "left",
             "color": "yellow"
           }
@@ -46,7 +46,7 @@
             "color": "gray"
           },
           {
-            "text": "23℃",
+            "text": "22℃",
             "align": "right",
             "color": "blue"
           }
@@ -88,7 +88,7 @@
             "color": "gray"
           },
           {
-            "text": "86%",
+            "text": "87%",
             "align": "right",
             "color": "blue"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "02:44取得",
+            "text": "02:49取得",
             "align": "right",
             "color": "gray"
           }
@@ -185,7 +185,7 @@
             "color": "yellow"
           },
           {
-            "text": "23℃",
+            "text": "22℃",
             "align": "right",
             "color": "yellow"
           }
@@ -251,7 +251,7 @@
             "color": "yellow"
           },
           {
-            "text": "23℃",
+            "text": "22℃",
             "align": "right",
             "color": "yellow"
           }
@@ -265,7 +265,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度86%",
+            "text": "湿度87%",
             "align": "right",
             "color": "blue"
           },
