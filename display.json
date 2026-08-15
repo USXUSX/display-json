@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 08:28",
+  "generated_at": "2026-08-16 08:33",
   "tiny": {
     "lines": [
       {
@@ -32,9 +32,9 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
@@ -60,7 +60,7 @@
             "color": "gray"
           },
           {
-            "text": "7%",
+            "text": "16%",
             "align": "right",
             "color": "blue"
           }
@@ -74,7 +74,7 @@
             "color": "gray"
           },
           {
-            "text": "27℃",
+            "text": "28℃",
             "align": "right",
             "color": "gray"
           }
@@ -88,7 +88,7 @@
             "color": "gray"
           },
           {
-            "text": "84%",
+            "text": "83%",
             "align": "right",
             "color": "blue"
           }
@@ -116,7 +116,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 27/22℃ 雨89%",
+            "text": "弱い霧雨 27/22℃ 雨82%",
             "align": "right",
             "color": "blue"
           }
@@ -130,7 +130,7 @@
             "color": "gray"
           },
           {
-            "text": "曇 29/22℃ 雨71%",
+            "text": "曇 29/22℃ 雨78%",
             "align": "right",
             "color": "gray"
           }
@@ -144,7 +144,7 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 31/22℃ 雨39%",
+            "text": "晴時々曇 31/22℃ 雨45%",
             "align": "right",
             "color": "gray"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "08:28取得",
+            "text": "08:33取得",
             "align": "right",
             "color": "gray"
           }
@@ -226,26 +226,26 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           },
           {
             "text": "24℃",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "体感27℃",
+            "text": "体感28℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度84%",
+            "text": "湿度83%",
             "align": "right",
             "color": "blue"
           },
@@ -264,7 +264,7 @@
             "color": "gray"
           },
           {
-            "text": "7%",
+            "text": "16%",
             "align": "right",
             "color": "blue"
           }
@@ -278,7 +278,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 27/22℃ 雨89%",
+            "text": "弱い霧雨 27/22℃ 雨82%",
             "align": "right",
             "color": "blue"
           }
@@ -292,7 +292,7 @@
             "color": "gray"
           },
           {
-            "text": "曇 29/22℃ 雨71%",
+            "text": "曇 29/22℃ 雨78%",
             "align": "right",
             "color": "gray"
           }
@@ -306,7 +306,7 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 31/22℃ 雨39%",
+            "text": "晴時々曇 31/22℃ 雨45%",
             "align": "right",
             "color": "gray"
           }
@@ -320,7 +320,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 30/23℃ 雨31%",
+            "text": "弱い霧雨 30/23℃ 雨33%",
             "align": "right",
             "color": "blue"
           }
@@ -334,7 +334,7 @@
             "color": "gray"
           },
           {
-            "text": "曇 30/23℃ 雨61%",
+            "text": "曇 30/23℃ 雨58%",
             "align": "right",
             "color": "gray"
           }
@@ -348,7 +348,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 29/24℃ 雨61%",
+            "text": "弱い霧雨 29/24℃ 雨59%",
             "align": "right",
             "color": "blue"
           }
@@ -362,7 +362,7 @@
             "color": "gray"
           },
           {
-            "text": "霧雨 30/25℃ 雨72%",
+            "text": "霧雨 30/25℃ 雨48%",
             "align": "right",
             "color": "blue"
           }
@@ -385,7 +385,7 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 24℃ 雨14%",
+            "text": "晴時々曇 24℃ 雨24%",
             "align": "right",
             "color": "gray"
           }
@@ -399,7 +399,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 25℃ 雨43%",
+            "text": "晴 25℃ 雨48%",
             "align": "right",
             "color": "yellow"
           }
@@ -413,7 +413,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨69%",
+            "text": "晴 26℃ 雨68%",
             "align": "right",
             "color": "yellow"
           }
@@ -427,7 +427,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨86%",
+            "text": "晴 26℃ 雨80%",
             "align": "right",
             "color": "yellow"
           }
@@ -441,7 +441,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 26℃ 雨88%",
+            "text": "弱い霧雨 26℃ 雨80%",
             "align": "right",
             "color": "blue"
           }
