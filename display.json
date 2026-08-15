@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-08-15 15:35",
+  "generated_at": "2026-08-15 16:18",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "晴",
+            "text": "全角",
             "align": "left",
             "color": "blue"
           },
           {
-            "text": "28°",
-            "align": "right",
-            "color": "default"
+            "text": "四文字",
+            "align": "right"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "Half",
+            "align": "left",
+            "color": "green"
+          },
+          {
+            "text": "ABCD1234",
+            "align": "right"
           }
         ]
       }
@@ -23,33 +35,24 @@
       {
         "items": [
           {
-            "text": "天気",
+            "text": "全角",
             "align": "left"
           },
           {
-            "text": "晴",
+            "text": "四文字",
             "align": "right",
             "color": "blue"
-          },
-          {
-            "text": "28°",
-            "align": "right"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "状態",
+            "text": "Half",
             "align": "left"
           },
           {
-            "text": "☆",
-            "align": "right",
-            "color": "yellow"
-          },
-          {
-            "text": "良好",
+            "text": "ABCD1234",
             "align": "right",
             "color": "green"
           }
@@ -62,11 +65,11 @@
       {
         "items": [
           {
-            "text": "天気",
+            "text": "全角",
             "align": "left"
           },
           {
-            "text": "晴 28°",
+            "text": "五文字表示",
             "align": "right",
             "color": "blue"
           }
@@ -75,7 +78,20 @@
       {
         "items": [
           {
-            "text": "予定",
+            "text": "Half",
+            "align": "left"
+          },
+          {
+            "text": "ABCDEFGHIJ",
+            "align": "right",
+            "color": "green"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "混在",
             "align": "left"
           },
           {
@@ -86,19 +102,6 @@
           {
             "text": "外出",
             "align": "right"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "確認",
-            "align": "left"
-          },
-          {
-            "text": "2件",
-            "align": "right",
-            "color": "red"
           }
         ]
       },
@@ -123,50 +126,42 @@
     ]
   },
   "wide": {
-    "title": "Display",
+    "title": "表示確認サンプル",
     "lines": [
       {
         "items": [
           {
-            "text": "天気",
+            "text": "全角",
             "align": "left"
           },
           {
-            "text": "晴",
+            "text": "あいうえおかきくけこ",
             "align": "right",
             "color": "blue"
-          },
-          {
-            "text": "28°",
-            "align": "right"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "予定",
+            "text": "半角",
             "align": "left"
           },
           {
-            "text": "14:00",
+            "text": "ABCDEFGHIJKLMNOPQRST",
             "align": "right",
-            "color": "yellow"
-          },
-          {
-            "text": "外出",
-            "align": "right"
+            "color": "green"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "確認事項",
+            "text": "数字",
             "align": "left"
           },
           {
-            "text": "2件",
+            "text": "1234567890",
             "align": "right",
             "color": "red"
           }
@@ -175,16 +170,24 @@
       {
         "items": [
           {
-            "text": "メンテナンス中",
-            "align": "left",
-            "color": "gray"
+            "text": "混在",
+            "align": "left"
+          },
+          {
+            "text": "14:00",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "サンプル",
+            "align": "right"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "状態",
+            "text": "項目色",
             "align": "left"
           },
           {
