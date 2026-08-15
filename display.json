@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15 23:11",
+  "generated_at": "2026-08-15 23:16",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "DL",
+            "text": "24℃",
             "align": "left",
             "color": "gray"
           }
@@ -14,9 +14,9 @@
       {
         "items": [
           {
-            "text": "3件",
+            "text": "雨8%",
             "align": "left",
-            "color": "green"
+            "color": "blue"
           }
         ]
       }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "23:11取得",
+            "text": "23:16取得",
             "align": "right",
             "color": "gray"
           }
