@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 23:26",
+  "generated_at": "2026-08-15 23:31",
   "tiny": {
     "lines": [
       {
@@ -32,7 +32,7 @@
             "color": "gray"
           },
           {
-            "text": "曇",
+            "text": "晴時々曇",
             "align": "right",
             "color": "gray"
           }
@@ -102,7 +102,7 @@
             "color": "gray"
           },
           {
-            "text": "3km/h",
+            "text": "4km/h",
             "align": "right",
             "color": "green"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "23:26取得",
+            "text": "23:31取得",
             "align": "right",
             "color": "gray"
           }
@@ -180,7 +180,7 @@
       {
         "items": [
           {
-            "text": "曇",
+            "text": "晴時々曇",
             "align": "left",
             "color": "gray"
           },
@@ -199,7 +199,7 @@
             "color": "blue"
           },
           {
-            "text": "風3",
+            "text": "風4",
             "align": "right",
             "color": "green"
           }
@@ -246,7 +246,7 @@
             "color": "gray"
           },
           {
-            "text": "曇",
+            "text": "晴時々曇",
             "align": "right",
             "color": "gray"
           },
@@ -270,7 +270,7 @@
             "color": "blue"
           },
           {
-            "text": "風3km/h",
+            "text": "風4km/h",
             "align": "right",
             "color": "green"
           }
