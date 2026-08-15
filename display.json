@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 21:25",
+  "generated_at": "2026-08-15 21:30",
   "tiny": {
     "lines": [
       {
@@ -27,8 +27,13 @@
       {
         "items": [
           {
-            "text": "青葉区 晴",
+            "text": "青葉区",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -36,8 +41,13 @@
       {
         "items": [
           {
-            "text": "気温 24℃",
+            "text": "気温",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "24℃",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -45,8 +55,13 @@
       {
         "items": [
           {
-            "text": "雨 27%",
+            "text": "雨",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "27%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -54,8 +69,13 @@
       {
         "items": [
           {
-            "text": "体感 28℃",
+            "text": "体感",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "28℃",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -63,8 +83,13 @@
       {
         "items": [
           {
-            "text": "湿度 77%",
+            "text": "湿度",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "77%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -72,8 +97,13 @@
       {
         "items": [
           {
-            "text": "風 3km/h",
+            "text": "風",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "3km/h",
+            "align": "right",
             "color": "green"
           }
         ]
@@ -81,8 +111,13 @@
       {
         "items": [
           {
-            "text": "今日 小雨 28/23℃ 雨100%",
+            "text": "今日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "小雨 28/23℃ 雨100%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -90,8 +125,13 @@
       {
         "items": [
           {
-            "text": "明日 晴時々曇 27/22℃ 雨82%",
+            "text": "明日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴時々曇 27/22℃ 雨82%",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -99,8 +139,13 @@
       {
         "items": [
           {
-            "text": "明後日 曇 28/22℃ 雨66%",
+            "text": "明後日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "曇 28/22℃ 雨66%",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -108,8 +153,13 @@
       {
         "items": [
           {
-            "text": "予報 21:25取得",
+            "text": "予報",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "21:30取得",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -130,8 +180,13 @@
       {
         "items": [
           {
-            "text": "晴 24℃",
+            "text": "晴",
             "align": "left",
+            "color": "yellow"
+          },
+          {
+            "text": "24℃",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -139,17 +194,27 @@
       {
         "items": [
           {
-            "text": "雨27% 風3",
+            "text": "雨27%",
             "align": "left",
             "color": "blue"
+          },
+          {
+            "text": "風3",
+            "align": "right",
+            "color": "green"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "今日 28/23℃",
+            "text": "今日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "28/23℃",
+            "align": "right",
             "color": "red"
           }
         ]
@@ -157,8 +222,13 @@
       {
         "items": [
           {
-            "text": "明日 27/22℃",
+            "text": "明日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "27/22℃",
+            "align": "right",
             "color": "green"
           }
         ]
@@ -171,8 +241,18 @@
       {
         "items": [
           {
-            "text": "青葉区  晴  24℃",
+            "text": "青葉区",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴",
+            "align": "right",
+            "color": "yellow"
+          },
+          {
+            "text": "24℃",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -180,17 +260,32 @@
       {
         "items": [
           {
-            "text": "体感28℃  湿度77%  風3km/h",
+            "text": "体感28℃",
             "align": "left",
             "color": "gray"
+          },
+          {
+            "text": "湿度77%",
+            "align": "right",
+            "color": "blue"
+          },
+          {
+            "text": "風3km/h",
+            "align": "right",
+            "color": "green"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "現在の降水確率 27%",
+            "text": "現在の降水確率",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "27%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -198,8 +293,13 @@
       {
         "items": [
           {
-            "text": "今日 小雨 28/23℃ 雨100%",
+            "text": "今日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "小雨 28/23℃ 雨100%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -207,8 +307,13 @@
       {
         "items": [
           {
-            "text": "明日 晴時々曇 27/22℃ 雨82%",
+            "text": "明日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴時々曇 27/22℃ 雨82%",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -216,8 +321,13 @@
       {
         "items": [
           {
-            "text": "明後日 曇 28/22℃ 雨66%",
+            "text": "明後日",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "曇 28/22℃ 雨66%",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -225,8 +335,13 @@
       {
         "items": [
           {
-            "text": "08/18 曇 30/23℃ 雨49%",
+            "text": "08/18",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "曇 30/23℃ 雨49%",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -234,8 +349,13 @@
       {
         "items": [
           {
-            "text": "08/19 霧雨 30/24℃ 雨30%",
+            "text": "08/19",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "霧雨 30/24℃ 雨30%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -243,8 +363,13 @@
       {
         "items": [
           {
-            "text": "08/20 弱い霧雨 30/24℃ 雨52%",
+            "text": "08/20",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "弱い霧雨 30/24℃ 雨52%",
+            "align": "right",
             "color": "blue"
           }
         ]
@@ -252,8 +377,13 @@
       {
         "items": [
           {
-            "text": "08/21 曇 29/24℃ 雨65%",
+            "text": "08/21",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "曇 29/24℃ 雨65%",
+            "align": "right",
             "color": "gray"
           }
         ]
@@ -270,8 +400,13 @@
       {
         "items": [
           {
-            "text": "22時 晴 24℃ 雨17%",
+            "text": "22時",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 24℃ 雨17%",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -279,8 +414,13 @@
       {
         "items": [
           {
-            "text": "00時 快晴 23℃ 雨2%",
+            "text": "00時",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "快晴 23℃ 雨2%",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -288,8 +428,13 @@
       {
         "items": [
           {
-            "text": "02時 晴 22℃ 雨0%",
+            "text": "02時",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 22℃ 雨0%",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -297,8 +442,13 @@
       {
         "items": [
           {
-            "text": "04時 晴 22℃ 雨0%",
+            "text": "04時",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 22℃ 雨0%",
+            "align": "right",
             "color": "yellow"
           }
         ]
@@ -306,8 +456,13 @@
       {
         "items": [
           {
-            "text": "06時 晴 22℃ 雨0%",
+            "text": "06時",
             "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 22℃ 雨0%",
+            "align": "right",
             "color": "yellow"
           }
         ]
