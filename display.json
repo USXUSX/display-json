@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 16:42",
+  "generated_at": "2026-08-16 16:47",
   "tiny": {
     "lines": [
       {
@@ -88,7 +88,7 @@
             "color": "gray"
           },
           {
-            "text": "89%",
+            "text": "91%",
             "align": "right",
             "color": "blue"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "16:41取得",
+            "text": "16:46取得",
             "align": "right",
             "color": "gray"
           }
@@ -245,7 +245,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度89%",
+            "text": "湿度91%",
             "align": "right",
             "color": "blue"
           },
