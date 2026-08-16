@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16 23:46",
+  "generated_at": "2026-08-16 23:55",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "12,345",
+            "text": "12345",
             "align": "left",
             "color": "primary"
           }
