@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16 23:40",
+  "generated_at": "2026-08-16 23:42",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "DL",
+            "text": "12,345",
             "align": "left",
             "color": "gray"
           }
@@ -14,9 +14,9 @@
       {
         "items": [
           {
-            "text": "5件",
+            "text": "+10.5%",
             "align": "left",
-            "color": "green"
+            "color": "gray"
           }
         ]
       }
@@ -27,13 +27,8 @@
       {
         "items": [
           {
-            "text": "青葉区",
+            "text": "00001",
             "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "晴時々曇",
-            "align": "right",
             "color": "gray"
           }
         ]
@@ -41,41 +36,8 @@
       {
         "items": [
           {
-            "text": "気温",
+            "text": "00002",
             "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "23℃",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "雨",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "22%",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "体感",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "28℃",
-            "align": "right",
             "color": "gray"
           }
         ]
@@ -83,69 +45,8 @@
       {
         "items": [
           {
-            "text": "湿度",
+            "text": "00003",
             "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "96%",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "風",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "3km/h",
-            "align": "right",
-            "color": "green"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "今日",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "弱い霧雨 26/22℃ 雨88%",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "明日",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "弱い霧雨 30/22℃ 雨78%",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "明後日",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "晴時々曇 30/22℃ 雨51%",
-            "align": "right",
             "color": "gray"
           }
         ]
@@ -153,13 +54,17 @@
       {
         "items": [
           {
-            "text": "予報",
+            "text": "00004",
             "align": "left",
             "color": "gray"
-          },
+          }
+        ]
+      },
+      {
+        "items": [
           {
-            "text": "23:39取得",
-            "align": "right",
+            "text": "00005",
+            "align": "left",
             "color": "gray"
           }
         ]
@@ -171,16 +76,7 @@
       {
         "items": [
           {
-            "text": "Downloads",
-            "align": "left",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "通常ファイル",
+            "text": "00001",
             "align": "left",
             "color": "gray"
           }
@@ -189,16 +85,7 @@
       {
         "items": [
           {
-            "text": "5件",
-            "align": "left",
-            "color": "green"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "非表示除外",
+            "text": "00002",
             "align": "left",
             "color": "gray"
           }
@@ -207,7 +94,25 @@
       {
         "items": [
           {
-            "text": "フォルダ除外",
+            "text": "00003",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "00004",
+            "align": "left",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "00005",
             "align": "left",
             "color": "gray"
           }
