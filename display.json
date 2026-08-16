@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 12:15",
+  "generated_at": "2026-08-16 12:20",
   "tiny": {
     "lines": [
       {
@@ -32,9 +32,9 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "blue"
+            "color": "gray"
           }
         ]
       },
@@ -88,7 +88,7 @@
             "color": "gray"
           },
           {
-            "text": "87%",
+            "text": "86%",
             "align": "right",
             "color": "blue"
           }
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "12:14取得",
+            "text": "12:20取得",
             "align": "right",
             "color": "gray"
           }
@@ -226,14 +226,14 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "blue"
+            "color": "gray"
           },
           {
             "text": "24℃",
             "align": "right",
-            "color": "blue"
+            "color": "gray"
           }
         ]
       },
@@ -245,7 +245,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度87%",
+            "text": "湿度86%",
             "align": "right",
             "color": "blue"
           },
