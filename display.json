@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 23:42",
+  "generated_at": "2026-08-16 23:46",
   "tiny": {
     "lines": [
       {
@@ -7,7 +7,7 @@
           {
             "text": "12,345",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -16,7 +16,7 @@
           {
             "text": "+10.5%",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       }
@@ -29,7 +29,7 @@
           {
             "text": "00001",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -38,7 +38,7 @@
           {
             "text": "00002",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -47,7 +47,7 @@
           {
             "text": "00003",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -56,7 +56,7 @@
           {
             "text": "00004",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -65,7 +65,7 @@
           {
             "text": "00005",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       }
@@ -78,7 +78,7 @@
           {
             "text": "00001",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -87,7 +87,7 @@
           {
             "text": "00002",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -96,7 +96,7 @@
           {
             "text": "00003",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -105,7 +105,7 @@
           {
             "text": "00004",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       },
@@ -114,7 +114,7 @@
           {
             "text": "00005",
             "align": "left",
-            "color": "gray"
+            "color": "primary"
           }
         ]
       }
@@ -150,7 +150,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度96%",
+            "text": "湿度95%",
             "align": "right",
             "color": "blue"
           },
