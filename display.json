@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 05:07",
+  "generated_at": "2026-08-17 05:17",
   "tiny": {
     "lines": [
       {
@@ -267,9 +267,9 @@
             "color": "gray"
           },
           {
-            "text": "霧雨 28/23℃ 雨49%",
+            "text": "雷雨 28/23℃ 雨49%",
             "align": "right",
-            "color": "blue"
+            "color": "red"
           }
         ]
       },
