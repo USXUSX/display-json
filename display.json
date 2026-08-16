@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 00:05",
+  "generated_at": "2026-08-17 00:35",
   "tiny": {
     "lines": [
       {
@@ -150,7 +150,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度95%",
+            "text": "湿度94%",
             "align": "right",
             "color": "blue"
           },
