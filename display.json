@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 14:20",
+  "generated_at": "2026-08-16 14:25",
   "tiny": {
     "lines": [
       {
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "14:20取得",
+            "text": "14:25取得",
             "align": "right",
             "color": "gray"
           }
