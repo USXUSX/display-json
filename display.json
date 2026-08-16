@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 19:28",
+  "generated_at": "2026-08-16 19:33",
   "tiny": {
     "lines": [
       {
@@ -32,9 +32,9 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
@@ -158,7 +158,7 @@
             "color": "gray"
           },
           {
-            "text": "19:28取得",
+            "text": "19:33取得",
             "align": "right",
             "color": "gray"
           }
@@ -226,14 +226,14 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           },
           {
             "text": "24℃",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
