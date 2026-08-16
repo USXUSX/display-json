@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 03:00",
+  "generated_at": "2026-08-17 03:31",
   "tiny": {
     "lines": [
       {
@@ -150,12 +150,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度95%",
+            "text": "湿度96%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風4km/h",
+            "text": "風3km/h",
             "align": "right",
             "color": "green"
           }
