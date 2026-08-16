@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 01:05",
+  "generated_at": "2026-08-17 01:15",
   "tiny": {
     "lines": [
       {
@@ -145,7 +145,7 @@
       {
         "items": [
           {
-            "text": "体感27℃",
+            "text": "体感26℃",
             "align": "left",
             "color": "gray"
           },
