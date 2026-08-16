@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 04:02",
+  "generated_at": "2026-08-17 04:32",
   "tiny": {
     "lines": [
       {
@@ -131,14 +131,14 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           },
           {
             "text": "22℃",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
