@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 15:31",
+  "generated_at": "2026-08-17 15:36",
   "tiny": {
     "lines": [
       {
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 15:26:31",
+            "text": "2026-08-17 15:31:36",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 15:26:31",
+            "text": "2026-08-17 15:31:36",
             "align": "left",
             "color": "primary"
           }
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感34℃",
+            "text": "体感33℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度62%",
+            "text": "湿度60%",
             "align": "right",
             "color": "blue"
           },
@@ -290,9 +290,9 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 29℃ 雨41%",
+            "text": "晴 30℃ 雨41%",
             "align": "right",
-            "color": "gray"
+            "color": "yellow"
           }
         ]
       },
@@ -304,9 +304,9 @@
             "color": "gray"
           },
           {
-            "text": "晴 27℃ 雨29%",
+            "text": "弱い霧雨 27℃ 雨29%",
             "align": "right",
-            "color": "yellow"
+            "color": "blue"
           }
         ]
       },
