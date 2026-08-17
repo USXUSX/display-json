@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 08:14",
+  "generated_at": "2026-08-18 08:19",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "68971 -0.24%",
+            "text": "68942 -0.28%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:08:14",
+            "text": "06:00 C:08:19",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-320 C:-164",
+            "text": "-320 C:-192",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "08:14:17",
+            "text": "08:19:26",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "68971 -0.24%",
+            "text": "68942 -0.28%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:08:14",
+            "text": "06:00 C:08:19",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-320 C:-164",
+            "text": "-320 C:-192",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "08:14:17",
+            "text": "08:19:26",
             "align": "left",
             "color": "primary"
           }
@@ -136,7 +136,7 @@
             "color": "yellow"
           },
           {
-            "text": "25℃",
+            "text": "26℃",
             "align": "right",
             "color": "yellow"
           }
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感30℃",
+            "text": "体感31℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度85%",
+            "text": "湿度84%",
             "align": "right",
             "color": "blue"
           },
