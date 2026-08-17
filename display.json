@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17 09:29",
+  "generated_at": "2026-08-17 09:34",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "69070",
+            "text": "69010",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "+0.55%",
+            "text": "+0.47%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "69070.00",
+            "text": "69010.00",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "+0.55%",
+            "text": "+0.47%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "+380.00",
+            "text": "+320.00",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 09:25:33",
+            "text": "2026-08-17 09:30:38",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "69070.00",
+            "text": "69010.00",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "+0.55%",
+            "text": "+0.47%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "+380.00",
+            "text": "+320.00",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 09:25:33",
+            "text": "2026-08-17 09:30:38",
             "align": "left",
             "color": "primary"
           }
@@ -150,12 +150,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度81%",
+            "text": "湿度79%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風2km/h",
+            "text": "風1km/h",
             "align": "right",
             "color": "green"
           }
