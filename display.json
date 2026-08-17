@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 17:02",
+  "generated_at": "2026-08-17 17:17",
   "tiny": {
     "lines": [
       {
@@ -136,7 +136,7 @@
             "color": "gray"
           },
           {
-            "text": "28℃",
+            "text": "27℃",
             "align": "right",
             "color": "gray"
           }
@@ -150,7 +150,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度75%",
+            "text": "湿度77%",
             "align": "right",
             "color": "blue"
           },
