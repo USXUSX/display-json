@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 07:29",
+  "generated_at": "2026-08-18 07:34",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "68991 -0.21%",
+            "text": "68993 -0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:27",
+            "text": "06:00 C:07:32",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-320 C:-144",
+            "text": "-320 C:-142",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "07:27:43",
+            "text": "07:32:53",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "68991 -0.21%",
+            "text": "68993 -0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:27",
+            "text": "06:00 C:07:32",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-320 C:-144",
+            "text": "-320 C:-142",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "07:27:43",
+            "text": "07:32:53",
             "align": "left",
             "color": "primary"
           }
@@ -155,7 +155,7 @@
             "color": "blue"
           },
           {
-            "text": "風3km/h",
+            "text": "風2km/h",
             "align": "right",
             "color": "green"
           }
