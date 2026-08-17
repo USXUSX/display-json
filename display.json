@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 19:58",
+  "generated_at": "2026-08-17 20:03",
   "tiny": {
     "lines": [
       {
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 19:57:17",
+            "text": "2026-08-17 20:02:22",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 19:57:17",
+            "text": "2026-08-17 20:02:22",
             "align": "left",
             "color": "primary"
           }
@@ -155,7 +155,7 @@
             "color": "blue"
           },
           {
-            "text": "風5km/h",
+            "text": "風4km/h",
             "align": "right",
             "color": "green"
           }
@@ -169,7 +169,7 @@
             "color": "gray"
           },
           {
-            "text": "20%",
+            "text": "11%",
             "align": "right",
             "color": "blue"
           }
@@ -285,12 +285,12 @@
       {
         "items": [
           {
-            "text": "20時",
+            "text": "21時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨11%",
+            "text": "晴 25℃ 雨4%",
             "align": "right",
             "color": "yellow"
           }
@@ -299,12 +299,12 @@
       {
         "items": [
           {
-            "text": "22時",
+            "text": "23時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 25℃ 雨1%",
+            "text": "晴 24℃ 雨1%",
             "align": "right",
             "color": "yellow"
           }
@@ -313,12 +313,12 @@
       {
         "items": [
           {
-            "text": "00時",
+            "text": "01時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 24℃ 雨2%",
+            "text": "晴 24℃ 雨4%",
             "align": "right",
             "color": "yellow"
           }
@@ -327,12 +327,12 @@
       {
         "items": [
           {
-            "text": "02時",
+            "text": "03時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "快晴 23℃ 雨7%",
+            "text": "快晴 23℃ 雨10%",
             "align": "right",
             "color": "yellow"
           }
@@ -341,12 +341,12 @@
       {
         "items": [
           {
-            "text": "04時",
+            "text": "05時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "快晴 23℃ 雨11%",
+            "text": "快晴 22℃ 雨11%",
             "align": "right",
             "color": "yellow"
           }
