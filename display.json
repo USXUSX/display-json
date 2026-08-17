@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17 22:14",
+  "generated_at": "2026-08-17 22:19",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "69130",
+            "text": "69150",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "-0.23%",
+            "text": "-0.20%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "69130.00",
+            "text": "69150.00",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "-0.23%",
+            "text": "-0.20%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "-160.00",
+            "text": "-140.00",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 22:09:35",
+            "text": "2026-08-17 22:14:39",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "69130.00",
+            "text": "69150.00",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "-0.23%",
+            "text": "-0.20%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "-160.00",
+            "text": "-140.00",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 22:09:35",
+            "text": "2026-08-17 22:14:39",
             "align": "left",
             "color": "primary"
           }
@@ -155,7 +155,7 @@
             "color": "blue"
           },
           {
-            "text": "風3km/h",
+            "text": "風2km/h",
             "align": "right",
             "color": "green"
           }
