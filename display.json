@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 07:44",
+  "generated_at": "2026-08-18 07:49",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "69007 -0.19%",
+            "text": "68966 -0.24%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:43",
+            "text": "06:00 C:07:48",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-320 C:-128",
+            "text": "-320 C:-169",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "07:43:13",
+            "text": "07:48:23",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "69007 -0.19%",
+            "text": "68966 -0.24%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:43",
+            "text": "06:00 C:07:48",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-320 C:-128",
+            "text": "-320 C:-169",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "07:43:13",
+            "text": "07:48:23",
             "align": "left",
             "color": "primary"
           }
@@ -131,12 +131,12 @@
             "color": "gray"
           },
           {
-            "text": "快晴",
+            "text": "晴",
             "align": "right",
             "color": "yellow"
           },
           {
-            "text": "24℃",
+            "text": "25℃",
             "align": "right",
             "color": "yellow"
           }
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感29℃",
+            "text": "体感30℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度88%",
+            "text": "湿度87%",
             "align": "right",
             "color": "blue"
           },
