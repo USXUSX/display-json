@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17 11:50",
+  "generated_at": "2026-08-17 11:55",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "68730",
+            "text": "68740",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "+0.06%",
+            "text": "+0.07%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "68730.00",
+            "text": "68740.00",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "+0.06%",
+            "text": "+0.07%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "+40.00",
+            "text": "+50.00",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 11:47:54",
+            "text": "2026-08-17 11:52:59",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "68730.00",
+            "text": "68740.00",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "+0.06%",
+            "text": "+0.07%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "+40.00",
+            "text": "+50.00",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 11:47:54",
+            "text": "2026-08-17 11:52:59",
             "align": "left",
             "color": "primary"
           }
