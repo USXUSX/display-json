@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 11:14",
+  "generated_at": "2026-08-17 11:19",
   "tiny": {
     "lines": [
       {
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 11:12:19",
+            "text": "2026-08-17 11:17:24",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "2026-08-17 11:12:19",
+            "text": "2026-08-17 11:17:24",
             "align": "left",
             "color": "primary"
           }
@@ -131,12 +131,12 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "快晴",
             "align": "right",
             "color": "yellow"
           },
           {
-            "text": "28℃",
+            "text": "29℃",
             "align": "right",
             "color": "yellow"
           }
@@ -150,12 +150,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度65%",
+            "text": "湿度64%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風4km/h",
+            "text": "風5km/h",
             "align": "right",
             "color": "green"
           }
