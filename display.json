@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 07:25",
+  "generated_at": "2026-08-20 07:30",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66333 +1.34%",
+            "text": "66338 +1.35%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:25",
+            "text": "06:00 C:07:27",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "+650 C:+879",
+            "text": "+650 C:+883",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "07:25:11",
+            "text": "07:27:46",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66333 +1.34%",
+            "text": "66338 +1.35%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:25",
+            "text": "06:00 C:07:27",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "+650 C:+879",
+            "text": "+650 C:+883",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "07:25:11",
+            "text": "07:27:46",
             "align": "left",
             "color": "primary"
           }
@@ -136,7 +136,7 @@
             "color": "yellow"
           },
           {
-            "text": "24℃",
+            "text": "25℃",
             "align": "right",
             "color": "yellow"
           }
@@ -150,7 +150,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度93%",
+            "text": "湿度92%",
             "align": "right",
             "color": "blue"
           },
