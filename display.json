@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 21:27",
+  "generated_at": "2026-08-19 21:32",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66198 +1.14%",
+            "text": "66177 +1.10%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "21:25 C:21:25",
+            "text": "21:30 C:21:30",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "+720 C:+743",
+            "text": "+720 C:+722",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "21:25:53",
+            "text": "21:31:03",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66198 +1.14%",
+            "text": "66177 +1.10%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "21:25 C:21:25",
+            "text": "21:30 C:21:30",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "+720 C:+743",
+            "text": "+720 C:+722",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "21:25:53",
+            "text": "21:31:03",
             "align": "left",
             "color": "primary"
           }
@@ -136,7 +136,7 @@
             "color": "yellow"
           },
           {
-            "text": "26℃",
+            "text": "25℃",
             "align": "right",
             "color": "yellow"
           }
@@ -150,12 +150,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度85%",
+            "text": "湿度86%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風4km/h",
+            "text": "風3km/h",
             "align": "right",
             "color": "green"
           }
@@ -225,7 +225,7 @@
             "color": "gray"
           },
           {
-            "text": "雷雨 30/24℃ 雨93%",
+            "text": "雷雨・雹 30/24℃ 雨93%",
             "align": "right",
             "color": "red"
           }
@@ -239,7 +239,7 @@
             "color": "gray"
           },
           {
-            "text": "霧雨 30/24℃ 雨65%",
+            "text": "弱い霧雨 30/24℃ 雨65%",
             "align": "right",
             "color": "blue"
           }
