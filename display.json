@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19 21:32",
+  "generated_at": "2026-08-19 21:37",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "66200",
+            "text": "66310",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "+1.10%",
+            "text": "+1.27%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "66200 +1.10%",
+            "text": "66310 +1.27%",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66177 +1.10%",
+            "text": "66287 +1.27%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "21:30 C:21:30",
+            "text": "21:36 C:21:36",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "+720 C:+722",
+            "text": "+830 C:+833",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "21:31:03",
+            "text": "21:36:12",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "66200 +1.10%",
+            "text": "66310 +1.27%",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66177 +1.10%",
+            "text": "66287 +1.27%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "21:30 C:21:30",
+            "text": "21:36 C:21:36",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "+720 C:+722",
+            "text": "+830 C:+833",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "21:31:03",
+            "text": "21:36:12",
             "align": "left",
             "color": "primary"
           }
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感30℃",
+            "text": "体感31℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度86%",
+            "text": "湿度88%",
             "align": "right",
             "color": "blue"
           },
@@ -197,7 +197,7 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 30/24℃ 雨41%",
+            "text": "曇 30/24℃ 雨41%",
             "align": "right",
             "color": "gray"
           }
@@ -225,9 +225,9 @@
             "color": "gray"
           },
           {
-            "text": "雷雨・雹 30/24℃ 雨93%",
+            "text": "強い霧雨 30/24℃ 雨93%",
             "align": "right",
-            "color": "red"
+            "color": "blue"
           }
         ]
       },
@@ -239,7 +239,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 30/24℃ 雨65%",
+            "text": "弱い霧雨 29/24℃ 雨65%",
             "align": "right",
             "color": "blue"
           }
@@ -267,7 +267,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 31/24℃ 雨9%",
+            "text": "晴 32/24℃ 雨9%",
             "align": "right",
             "color": "yellow"
           }
@@ -318,9 +318,9 @@
             "color": "gray"
           },
           {
-            "text": "晴 24℃ 雨0%",
+            "text": "晴時々曇 24℃ 雨0%",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
