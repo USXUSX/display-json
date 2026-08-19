@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 06:55",
+  "generated_at": "2026-08-20 07:00",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66204 +1.15%",
+            "text": "66208 +1.15%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:54",
+            "text": "06:00 C:06:59",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "+650 C:+749",
+            "text": "+650 C:+753",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "06:54:13",
+            "text": "06:59:23",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66204 +1.15%",
+            "text": "66208 +1.15%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:54",
+            "text": "06:00 C:06:59",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "+650 C:+749",
+            "text": "+650 C:+753",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "06:54:13",
+            "text": "06:59:23",
             "align": "left",
             "color": "primary"
           }
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感29℃",
+            "text": "体感30℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度95%",
+            "text": "湿度94%",
             "align": "right",
             "color": "blue"
           },
@@ -285,12 +285,12 @@
       {
         "items": [
           {
-            "text": "07時",
+            "text": "08時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 24℃ 雨0%",
+            "text": "晴 25℃ 雨0%",
             "align": "right",
             "color": "yellow"
           }
@@ -299,12 +299,12 @@
       {
         "items": [
           {
-            "text": "09時",
+            "text": "10時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 27℃ 雨0%",
+            "text": "晴 28℃ 雨1%",
             "align": "right",
             "color": "yellow"
           }
@@ -313,12 +313,12 @@
       {
         "items": [
           {
-            "text": "11時",
+            "text": "12時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 28℃ 雨3%",
+            "text": "晴 29℃ 雨6%",
             "align": "right",
             "color": "yellow"
           }
@@ -327,12 +327,12 @@
       {
         "items": [
           {
-            "text": "13時",
+            "text": "14時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 29℃ 雨11%",
+            "text": "晴 30℃ 雨17%",
             "align": "right",
             "color": "yellow"
           }
@@ -341,12 +341,12 @@
       {
         "items": [
           {
-            "text": "15時",
+            "text": "16時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "快晴 29℃ 雨20%",
+            "text": "快晴 29℃ 雨16%",
             "align": "right",
             "color": "yellow"
           }
