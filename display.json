@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 06:43",
+  "generated_at": "2026-08-21 06:48",
   "tiny": {
     "lines": [
       {
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:42",
+            "text": "06:00 C:06:48",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "06:43:01",
+            "text": "06:48:11",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:42",
+            "text": "06:00 C:06:48",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "06:43:01",
+            "text": "06:48:11",
             "align": "left",
             "color": "primary"
           }
@@ -136,7 +136,7 @@
             "color": "yellow"
           },
           {
-            "text": "24℃",
+            "text": "25℃",
             "align": "right",
             "color": "yellow"
           }
@@ -150,12 +150,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度88%",
+            "text": "湿度86%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風3km/h",
+            "text": "風4km/h",
             "align": "right",
             "color": "green"
           }
