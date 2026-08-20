@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20 17:44",
+  "generated_at": "2026-08-20 17:49",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "65880",
+            "text": "65780",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "-0.72%",
+            "text": "-0.87%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "65880 -0.72%",
+            "text": "65780 -0.87%",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "65870 -0.44%",
+            "text": "65781 -0.58%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "17:40 C:17:41",
+            "text": "17:46 C:17:46",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-480 C:-294",
+            "text": "-580 C:-383",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "17:41:14",
+            "text": "17:46:23",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "65880 -0.72%",
+            "text": "65780 -0.87%",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "65870 -0.44%",
+            "text": "65781 -0.58%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "17:40 C:17:41",
+            "text": "17:46 C:17:46",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-480 C:-294",
+            "text": "-580 C:-383",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "17:41:14",
+            "text": "17:46:23",
             "align": "left",
             "color": "primary"
           }
@@ -150,7 +150,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度76%",
+            "text": "湿度77%",
             "align": "right",
             "color": "blue"
           },
