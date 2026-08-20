@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 07:44",
+  "generated_at": "2026-08-21 07:49",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "65458 -1.07%",
+            "text": "65464 -1.06%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:42",
+            "text": "06:00 C:07:47",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-850 C:-706",
+            "text": "-850 C:-700",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "07:42:34",
+            "text": "07:47:45",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "65458 -1.07%",
+            "text": "65464 -1.06%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:07:42",
+            "text": "06:00 C:07:47",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-850 C:-706",
+            "text": "-850 C:-700",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "07:42:34",
+            "text": "07:47:45",
             "align": "left",
             "color": "primary"
           }
@@ -145,7 +145,7 @@
       {
         "items": [
           {
-            "text": "体感30℃",
+            "text": "体感31℃",
             "align": "left",
             "color": "gray"
           },
@@ -155,7 +155,7 @@
             "color": "blue"
           },
           {
-            "text": "風4km/h",
+            "text": "風5km/h",
             "align": "right",
             "color": "green"
           }
