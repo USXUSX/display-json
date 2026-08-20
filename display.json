@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 06:13",
+  "generated_at": "2026-08-21 06:18",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "65499 -1.00%",
+            "text": "65505 -1.00%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:11",
+            "text": "06:00 C:06:16",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-850 C:-664",
+            "text": "-850 C:-659",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "06:11:57",
+            "text": "06:17:06",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "65499 -1.00%",
+            "text": "65505 -1.00%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:11",
+            "text": "06:00 C:06:16",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-850 C:-664",
+            "text": "-850 C:-659",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "06:11:57",
+            "text": "06:17:06",
             "align": "left",
             "color": "primary"
           }
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感28℃",
+            "text": "体感29℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度90%",
+            "text": "湿度89%",
             "align": "right",
             "color": "blue"
           },
