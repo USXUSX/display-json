@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21 20:59",
+  "generated_at": "2026-08-21 21:04",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "66270",
+            "text": "66230",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "+0.27%",
+            "text": "+0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "66270 +0.27%",
+            "text": "66230 +0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66235 +0.36%",
+            "text": "66202 +0.31%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "20:53 C:20:57",
+            "text": "21:01 C:21:02",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "+180 C:+237",
+            "text": "+140 C:+204",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "20:57:16",
+            "text": "21:02:27",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "66270 +0.27%",
+            "text": "66230 +0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66235 +0.36%",
+            "text": "66202 +0.31%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "20:53 C:20:57",
+            "text": "21:01 C:21:02",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "+180 C:+237",
+            "text": "+140 C:+204",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "20:57:16",
+            "text": "21:02:27",
             "align": "left",
             "color": "primary"
           }
@@ -169,7 +169,7 @@
             "color": "gray"
           },
           {
-            "text": "75%",
+            "text": "76%",
             "align": "right",
             "color": "blue"
           }
@@ -285,12 +285,12 @@
       {
         "items": [
           {
-            "text": "21時",
+            "text": "22時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨76%",
+            "text": "晴 26℃ 雨66%",
             "align": "right",
             "color": "yellow"
           }
@@ -299,12 +299,12 @@
       {
         "items": [
           {
-            "text": "23時",
+            "text": "00時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨52%",
+            "text": "晴 25℃ 雨37%",
             "align": "right",
             "color": "yellow"
           }
@@ -313,12 +313,12 @@
       {
         "items": [
           {
-            "text": "01時",
+            "text": "02時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 25℃ 雨23%",
+            "text": "晴 25℃ 雨10%",
             "align": "right",
             "color": "yellow"
           }
@@ -327,7 +327,7 @@
       {
         "items": [
           {
-            "text": "03時",
+            "text": "04時",
             "align": "left",
             "color": "gray"
           },
@@ -341,7 +341,7 @@
       {
         "items": [
           {
-            "text": "05時",
+            "text": "06時",
             "align": "left",
             "color": "gray"
           },
