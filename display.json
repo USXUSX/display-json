@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21 21:29",
+  "generated_at": "2026-08-21 21:34",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "66210",
+            "text": "66170",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "+0.18%",
+            "text": "+0.12%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "66210 +0.18%",
+            "text": "66170 +0.12%",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66194 +0.30%",
+            "text": "66151 +0.23%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "21:27 C:21:28",
+            "text": "21:30 C:21:30",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "+120 C:+197",
+            "text": "+80 C:+154",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "21:28:22",
+            "text": "21:30:57",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "66210 +0.18%",
+            "text": "66170 +0.12%",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66194 +0.30%",
+            "text": "66151 +0.23%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "21:27 C:21:28",
+            "text": "21:30 C:21:30",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "+120 C:+197",
+            "text": "+80 C:+154",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "21:28:22",
+            "text": "21:30:57",
             "align": "left",
             "color": "primary"
           }
