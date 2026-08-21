@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 04:56",
+  "generated_at": "2026-08-22 05:01",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "65915 -0.12%",
+            "text": "65922 -0.11%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "04:53 C:04:53",
+            "text": "04:58 C:04:58",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-150 C:-81",
+            "text": "-150 C:-74",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "04:53:29",
+            "text": "04:58:39",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "65915 -0.12%",
+            "text": "65922 -0.11%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "04:53 C:04:53",
+            "text": "04:58 C:04:58",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-150 C:-81",
+            "text": "-150 C:-74",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "04:53:29",
+            "text": "04:58:39",
             "align": "left",
             "color": "primary"
           }
@@ -169,7 +169,7 @@
             "color": "gray"
           },
           {
-            "text": "3%",
+            "text": "1%",
             "align": "right",
             "color": "blue"
           }
@@ -285,21 +285,7 @@
       {
         "items": [
           {
-            "text": "05時",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "晴 24℃ 雨1%",
-            "align": "right",
-            "color": "yellow"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "07時",
+            "text": "06時",
             "align": "left",
             "color": "gray"
           },
@@ -313,7 +299,7 @@
       {
         "items": [
           {
-            "text": "09時",
+            "text": "08時",
             "align": "left",
             "color": "gray"
           },
@@ -327,26 +313,40 @@
       {
         "items": [
           {
-            "text": "11時",
+            "text": "10時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 28℃ 雨25%",
+            "text": "晴時々曇 27℃ 雨10%",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
       {
         "items": [
           {
-            "text": "13時",
+            "text": "12時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 29℃ 雨61%",
+            "text": "弱い霧雨 28℃ 雨41%",
+            "align": "right",
+            "color": "blue"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "14時",
+            "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 29℃ 雨82%",
             "align": "right",
             "color": "yellow"
           }
