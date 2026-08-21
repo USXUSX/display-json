@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22 02:00",
+  "generated_at": "2026-08-22 02:05",
   "tiny": {
     "lines": [
       {
         "items": [
           {
-            "text": "65900",
+            "text": "65950",
             "align": "left",
             "color": "primary"
           }
@@ -14,7 +14,7 @@
       {
         "items": [
           {
-            "text": "-0.29%",
+            "text": "-0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -27,7 +27,7 @@
       {
         "items": [
           {
-            "text": "65900 -0.29%",
+            "text": "65950 -0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "65879 -0.18%",
+            "text": "65939 -0.09%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "01:57 C:01:57",
+            "text": "02:02 C:02:02",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-190 C:-117",
+            "text": "-140 C:-58",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "01:57:40",
+            "text": "02:02:49",
             "align": "left",
             "color": "primary"
           }
@@ -76,7 +76,7 @@
       {
         "items": [
           {
-            "text": "65900 -0.29%",
+            "text": "65950 -0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "65879 -0.18%",
+            "text": "65939 -0.09%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "01:57 C:01:57",
+            "text": "02:02 C:02:02",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-190 C:-117",
+            "text": "-140 C:-58",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "01:57:40",
+            "text": "02:02:49",
             "align": "left",
             "color": "primary"
           }
@@ -131,14 +131,14 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨",
+            "text": "晴",
             "align": "right",
-            "color": "blue"
+            "color": "yellow"
           },
           {
             "text": "24℃",
             "align": "right",
-            "color": "blue"
+            "color": "yellow"
           }
         ]
       },
@@ -150,12 +150,12 @@
             "color": "gray"
           },
           {
-            "text": "湿度97%",
+            "text": "湿度95%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風2km/h",
+            "text": "風4km/h",
             "align": "right",
             "color": "green"
           }
@@ -169,7 +169,7 @@
             "color": "gray"
           },
           {
-            "text": "15%",
+            "text": "10%",
             "align": "right",
             "color": "blue"
           }
@@ -183,7 +183,7 @@
             "color": "gray"
           },
           {
-            "text": "雨 29/23℃ 雨100%",
+            "text": "弱い霧雨 29/23℃ 雨100%",
             "align": "right",
             "color": "blue"
           }
@@ -197,7 +197,7 @@
             "color": "gray"
           },
           {
-            "text": "雨 28/23℃ 雨89%",
+            "text": "弱い霧雨 30/24℃ 雨89%",
             "align": "right",
             "color": "blue"
           }
@@ -211,7 +211,7 @@
             "color": "gray"
           },
           {
-            "text": "霧雨 30/24℃ 雨24%",
+            "text": "弱い霧雨 30/24℃ 雨24%",
             "align": "right",
             "color": "blue"
           }
@@ -285,26 +285,12 @@
       {
         "items": [
           {
-            "text": "02時",
+            "text": "03時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 24℃ 雨10%",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "04時",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "晴 24℃ 雨3%",
+            "text": "晴 24℃ 雨6%",
             "align": "right",
             "color": "yellow"
           }
@@ -313,12 +299,12 @@
       {
         "items": [
           {
-            "text": "06時",
+            "text": "05時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 23℃ 雨0%",
+            "text": "晴 23℃ 雨1%",
             "align": "right",
             "color": "yellow"
           }
@@ -327,12 +313,26 @@
       {
         "items": [
           {
-            "text": "08時",
+            "text": "07時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 25℃ 雨0%",
+            "text": "晴時々曇 24℃ 雨0%",
+            "align": "right",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "09時",
+            "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 26℃ 雨0%",
             "align": "right",
             "color": "yellow"
           }
@@ -341,12 +341,12 @@
       {
         "items": [
           {
-            "text": "10時",
+            "text": "11時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨10%",
+            "text": "晴 28℃ 雨25%",
             "align": "right",
             "color": "yellow"
           }
