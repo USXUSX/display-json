@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 16:12",
+  "generated_at": "2026-08-21 16:17",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66082 +0.13%",
+            "text": "66138 +0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "08/21 C:16:09",
+            "text": "08/21 C:16:14",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-270 C:+85",
+            "text": "-270 C:+140",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "16:09:49",
+            "text": "16:15:00",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66082 +0.13%",
+            "text": "66138 +0.21%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "08/21 C:16:09",
+            "text": "08/21 C:16:14",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-270 C:+85",
+            "text": "-270 C:+140",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "16:09:49",
+            "text": "16:15:00",
             "align": "left",
             "color": "primary"
           }
@@ -150,7 +150,7 @@
             "color": "gray"
           },
           {
-            "text": "湿度71%",
+            "text": "湿度72%",
             "align": "right",
             "color": "blue"
           },
