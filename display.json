@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 16:17",
+  "generated_at": "2026-08-21 16:22",
   "tiny": {
     "lines": [
       {
@@ -36,7 +36,7 @@
       {
         "items": [
           {
-            "text": "66138 +0.21%",
+            "text": "66152 +0.23%",
             "align": "left",
             "color": "primary"
           }
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "08/21 C:16:14",
+            "text": "08/21 C:16:20",
             "align": "left",
             "color": "primary"
           }
@@ -54,7 +54,7 @@
       {
         "items": [
           {
-            "text": "-270 C:+140",
+            "text": "-270 C:+154",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "16:15:00",
+            "text": "16:20:11",
             "align": "left",
             "color": "primary"
           }
@@ -85,7 +85,7 @@
       {
         "items": [
           {
-            "text": "66138 +0.21%",
+            "text": "66152 +0.23%",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "08/21 C:16:14",
+            "text": "08/21 C:16:20",
             "align": "left",
             "color": "primary"
           }
@@ -103,7 +103,7 @@
       {
         "items": [
           {
-            "text": "-270 C:+140",
+            "text": "-270 C:+154",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "16:15:00",
+            "text": "16:20:11",
             "align": "left",
             "color": "primary"
           }
