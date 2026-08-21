@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 06:12",
+  "generated_at": "2026-08-22 06:17",
   "tiny": {
     "lines": [
       {
@@ -45,7 +45,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:10",
+            "text": "06:00 C:06:15",
             "align": "left",
             "color": "primary"
           }
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "06:10:59",
+            "text": "06:16:09",
             "align": "left",
             "color": "primary"
           }
@@ -94,7 +94,7 @@
       {
         "items": [
           {
-            "text": "06:00 C:06:10",
+            "text": "06:00 C:06:15",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "06:10:59",
+            "text": "06:16:09",
             "align": "left",
             "color": "primary"
           }
@@ -131,14 +131,14 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           },
           {
             "text": "24℃",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
