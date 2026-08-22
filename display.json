@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 09:07",
+  "generated_at": "2026-08-22 09:12",
   "tiny": {
     "lines": [
       {
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "09:06:34",
+            "text": "09:11:44",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "09:06:34",
+            "text": "09:11:44",
             "align": "left",
             "color": "primary"
           }
@@ -225,9 +225,9 @@
             "color": "gray"
           },
           {
-            "text": "曇 33/26℃ 雨10%",
+            "text": "晴 32/25℃ 雨10%",
             "align": "right",
-            "color": "gray"
+            "color": "yellow"
           }
         ]
       },
@@ -239,7 +239,7 @@
             "color": "gray"
           },
           {
-            "text": "雷雨・雹 32/25℃ 雨65%",
+            "text": "雷雨・雹 32/24℃ 雨65%",
             "align": "right",
             "color": "red"
           }
@@ -253,7 +253,7 @@
             "color": "gray"
           },
           {
-            "text": "曇 31/26℃ 雨64%",
+            "text": "曇 31/24℃ 雨64%",
             "align": "right",
             "color": "gray"
           }
