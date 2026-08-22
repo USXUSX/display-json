@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 22:47",
+  "generated_at": "2026-08-22 23:02",
   "tiny": {
     "lines": [
       {
@@ -169,7 +169,7 @@
             "color": "gray"
           },
           {
-            "text": "68%",
+            "text": "46%",
             "align": "right",
             "color": "blue"
           }
@@ -285,12 +285,12 @@
       {
         "items": [
           {
-            "text": "23時",
+            "text": "00時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "霧雨 25℃ 雨46%",
+            "text": "強い霧雨 25℃ 雨27%",
             "align": "right",
             "color": "blue"
           }
@@ -299,12 +299,12 @@
       {
         "items": [
           {
-            "text": "01時",
+            "text": "02時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "霧雨 24℃ 雨17%",
+            "text": "弱い霧雨 24℃ 雨10%",
             "align": "right",
             "color": "blue"
           }
@@ -313,26 +313,12 @@
       {
         "items": [
           {
-            "text": "03時",
+            "text": "04時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 24℃ 雨6%",
-            "align": "right",
-            "color": "blue"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "05時",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "曇 24℃ 雨1%",
+            "text": "曇 24℃ 雨3%",
             "align": "right",
             "color": "gray"
           }
@@ -341,7 +327,21 @@
       {
         "items": [
           {
-            "text": "07時",
+            "text": "06時",
+            "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "曇 24℃ 雨0%",
+            "align": "right",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "08時",
             "align": "left",
             "color": "gray"
           },
