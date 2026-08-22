@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 22:02",
+  "generated_at": "2026-08-22 22:17",
   "tiny": {
     "lines": [
       {
@@ -131,14 +131,14 @@
             "color": "gray"
           },
           {
-            "text": "曇",
+            "text": "弱い霧雨",
             "align": "right",
-            "color": "gray"
+            "color": "blue"
           },
           {
             "text": "25℃",
             "align": "right",
-            "color": "gray"
+            "color": "blue"
           }
         ]
       },
