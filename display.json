@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 05:04",
+  "generated_at": "2026-08-23 05:19",
   "tiny": {
     "lines": [
       {
@@ -155,7 +155,7 @@
             "color": "blue"
           },
           {
-            "text": "風3km/h",
+            "text": "風4km/h",
             "align": "right",
             "color": "green"
           }
