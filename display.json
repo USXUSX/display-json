@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 09:02",
+  "generated_at": "2026-08-22 09:07",
   "tiny": {
     "lines": [
       {
@@ -63,7 +63,7 @@
       {
         "items": [
           {
-            "text": "09:01:25",
+            "text": "09:06:34",
             "align": "left",
             "color": "primary"
           }
@@ -112,7 +112,7 @@
       {
         "items": [
           {
-            "text": "09:01:25",
+            "text": "09:06:34",
             "align": "left",
             "color": "primary"
           }
@@ -239,7 +239,7 @@
             "color": "gray"
           },
           {
-            "text": "雷雨 32/25℃ 雨65%",
+            "text": "雷雨・雹 32/25℃ 雨65%",
             "align": "right",
             "color": "red"
           }
