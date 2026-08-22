@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 15:04",
+  "generated_at": "2026-08-22 15:34",
   "tiny": {
     "lines": [
       {
@@ -136,7 +136,7 @@
             "color": "yellow"
           },
           {
-            "text": "31℃",
+            "text": "30℃",
             "align": "right",
             "color": "yellow"
           }
@@ -145,17 +145,17 @@
       {
         "items": [
           {
-            "text": "体感36℃",
+            "text": "体感35℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度66%",
+            "text": "湿度69%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風5km/h",
+            "text": "風6km/h",
             "align": "right",
             "color": "green"
           }
@@ -183,7 +183,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 31/24℃ 雨100%",
+            "text": "弱い霧雨 30/24℃ 雨100%",
             "align": "right",
             "color": "blue"
           }
@@ -197,7 +197,7 @@
             "color": "gray"
           },
           {
-            "text": "小雨 28/24℃ 雨88%",
+            "text": "弱い霧雨 29/24℃ 雨88%",
             "align": "right",
             "color": "blue"
           }
@@ -267,9 +267,9 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 30/25℃ 雨62%",
+            "text": "雷雨 30/25℃ 雨62%",
             "align": "right",
-            "color": "blue"
+            "color": "red"
           }
         ]
       },
@@ -290,9 +290,9 @@
             "color": "gray"
           },
           {
-            "text": "晴 30℃ 雨100%",
+            "text": "晴時々曇 30℃ 雨100%",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
@@ -304,7 +304,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 28℃ 雨100%",
+            "text": "快晴 28℃ 雨100%",
             "align": "right",
             "color": "yellow"
           }
@@ -318,9 +318,9 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 26℃ 雨100%",
+            "text": "晴 26℃ 雨100%",
             "align": "right",
-            "color": "blue"
+            "color": "yellow"
           }
         ]
       },
@@ -346,9 +346,9 @@
             "color": "gray"
           },
           {
-            "text": "霧雨 26℃ 雨29%",
+            "text": "晴時々曇 25℃ 雨29%",
             "align": "right",
-            "color": "blue"
+            "color": "gray"
           }
         ]
       }
