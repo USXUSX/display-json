@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 21:02",
+  "generated_at": "2026-08-22 21:17",
   "tiny": {
     "lines": [
       {
@@ -131,14 +131,14 @@
             "color": "gray"
           },
           {
-            "text": "晴",
+            "text": "晴時々曇",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           },
           {
             "text": "25℃",
             "align": "right",
-            "color": "yellow"
+            "color": "gray"
           }
         ]
       },
@@ -225,9 +225,9 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 32/24℃ 雨9%",
+            "text": "晴 32/24℃ 雨9%",
             "align": "right",
-            "color": "gray"
+            "color": "yellow"
           }
         ]
       },
