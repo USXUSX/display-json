@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 23:17",
+  "generated_at": "2026-08-22 23:32",
   "tiny": {
     "lines": [
       {
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感31℃",
+            "text": "体感30℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度96%",
+            "text": "湿度97%",
             "align": "right",
             "color": "blue"
           },
