@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 02:03",
+  "generated_at": "2026-08-23 02:08",
   "tiny": {
     "lines": [
       {
@@ -131,7 +131,7 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇",
+            "text": "曇",
             "align": "right",
             "color": "gray"
           },
@@ -145,12 +145,12 @@
       {
         "items": [
           {
-            "text": "体感30℃",
+            "text": "体感29℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度98%",
+            "text": "湿度99%",
             "align": "right",
             "color": "blue"
           },
@@ -183,7 +183,7 @@
             "color": "gray"
           },
           {
-            "text": "強い霧雨 28/24℃ 雨71%",
+            "text": "弱い霧雨 29/23℃ 雨71%",
             "align": "right",
             "color": "blue"
           }
@@ -197,7 +197,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 30/23℃ 雨33%",
+            "text": "晴 31/24℃ 雨33%",
             "align": "right",
             "color": "yellow"
           }
@@ -211,7 +211,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 32/24℃ 雨7%",
+            "text": "晴 33/25℃ 雨7%",
             "align": "right",
             "color": "yellow"
           }
@@ -290,9 +290,9 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 24℃ 雨4%",
+            "text": "曇 24℃ 雨4%",
             "align": "right",
-            "color": "blue"
+            "color": "gray"
           }
         ]
       },
@@ -318,7 +318,7 @@
             "color": "gray"
           },
           {
-            "text": "曇 24℃ 雨0%",
+            "text": "晴時々曇 24℃ 雨0%",
             "align": "right",
             "color": "gray"
           }
@@ -332,9 +332,9 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 25℃ 雨4%",
+            "text": "晴 25℃ 雨4%",
             "align": "right",
-            "color": "gray"
+            "color": "yellow"
           }
         ]
       },
