@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 18:00",
+  "generated_at": "2026-08-22 18:15",
   "tiny": {
     "lines": [
       {
@@ -131,7 +131,7 @@
             "color": "gray"
           },
           {
-            "text": "快晴",
+            "text": "晴",
             "align": "right",
             "color": "yellow"
           },
@@ -145,7 +145,7 @@
       {
         "items": [
           {
-            "text": "体感34℃",
+            "text": "体感33℃",
             "align": "left",
             "color": "gray"
           },
