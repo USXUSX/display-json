@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 01:48",
+  "generated_at": "2026-08-23 02:03",
   "tiny": {
     "lines": [
       {
@@ -169,7 +169,7 @@
             "color": "gray"
           },
           {
-            "text": "20%",
+            "text": "11%",
             "align": "right",
             "color": "blue"
           }
@@ -285,12 +285,12 @@
       {
         "items": [
           {
-            "text": "02時",
+            "text": "03時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 24℃ 雨11%",
+            "text": "弱い霧雨 24℃ 雨4%",
             "align": "right",
             "color": "blue"
           }
@@ -299,21 +299,7 @@
       {
         "items": [
           {
-            "text": "04時",
-            "align": "left",
-            "color": "gray"
-          },
-          {
-            "text": "曇 24℃ 雨1%",
-            "align": "right",
-            "color": "gray"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "text": "06時",
+            "text": "05時",
             "align": "left",
             "color": "gray"
           },
@@ -327,7 +313,7 @@
       {
         "items": [
           {
-            "text": "08時",
+            "text": "07時",
             "align": "left",
             "color": "gray"
           },
@@ -341,12 +327,26 @@
       {
         "items": [
           {
-            "text": "10時",
+            "text": "09時",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨14%",
+            "text": "晴時々曇 25℃ 雨4%",
+            "align": "right",
+            "color": "gray"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "text": "11時",
+            "align": "left",
+            "color": "gray"
+          },
+          {
+            "text": "晴 27℃ 雨26%",
             "align": "right",
             "color": "yellow"
           }
