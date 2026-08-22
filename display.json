@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 20:02",
+  "generated_at": "2026-08-22 20:07",
   "tiny": {
     "lines": [
       {
@@ -145,17 +145,17 @@
       {
         "items": [
           {
-            "text": "体感32℃",
+            "text": "体感31℃",
             "align": "left",
             "color": "gray"
           },
           {
-            "text": "湿度86%",
+            "text": "湿度90%",
             "align": "right",
             "color": "blue"
           },
           {
-            "text": "風3km/h",
+            "text": "風4km/h",
             "align": "right",
             "color": "green"
           }
@@ -183,7 +183,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 30/24℃ 雨100%",
+            "text": "強い霧雨 30/24℃ 雨100%",
             "align": "right",
             "color": "blue"
           }
@@ -197,7 +197,7 @@
             "color": "gray"
           },
           {
-            "text": "弱い霧雨 29/24℃ 雨75%",
+            "text": "霧雨 28/24℃ 雨75%",
             "align": "right",
             "color": "blue"
           }
@@ -211,7 +211,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 30/23℃ 雨37%",
+            "text": "晴 30/24℃ 雨37%",
             "align": "right",
             "color": "yellow"
           }
@@ -290,7 +290,7 @@
             "color": "gray"
           },
           {
-            "text": "晴 26℃ 雨86%",
+            "text": "晴 25℃ 雨86%",
             "align": "right",
             "color": "yellow"
           }
@@ -304,9 +304,9 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 26℃ 雨46%",
+            "text": "弱い霧雨 25℃ 雨46%",
             "align": "right",
-            "color": "gray"
+            "color": "blue"
           }
         ]
       },
@@ -318,9 +318,9 @@
             "color": "gray"
           },
           {
-            "text": "晴 25℃ 雨17%",
+            "text": "弱い霧雨 24℃ 雨17%",
             "align": "right",
-            "color": "yellow"
+            "color": "blue"
           }
         ]
       },
@@ -332,9 +332,9 @@
             "color": "gray"
           },
           {
-            "text": "晴時々曇 24℃ 雨6%",
+            "text": "弱い霧雨 24℃ 雨6%",
             "align": "right",
-            "color": "gray"
+            "color": "blue"
           }
         ]
       },
